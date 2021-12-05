@@ -68,6 +68,11 @@
                 color: #eee;
                 font-family: 'Roboto', sans-serif;                
             }
+            .txtsvg{
+                font-size: calc(0.8rem);
+                color: #eee;  
+                font-family: 'Roboto', sans-serif;        
+            }
 
 
         </style>
@@ -218,12 +223,19 @@
                             
                         </g>  
                         </svg>
+                        <svg height="30" width="100%">
+                            <circle cx="5%" cy="15" r="10" stroke="#bf8266" stroke-width="2" fill="black" />
+                            <text class="txtsvg" x = "8%" y = "20" fill="#eee">Límite de urbanización</text>
+                            <circle cx="35%" cy="15" r="10" stroke="#bf8266" stroke-width="2" fill="#bf8266" style="opacity:0.69"/>
+                            <text class="txtsvg" x = "38%" y = "20" fill="#eee">Área urbanizada</text>
+                            <circle cx="60%" cy="15" r="10" stroke="#c83a02" stroke-width="2" fill="black" />
+                            <text class="txtsvg" x = "63%" y = "20" fill="#eee">Falla de Ramón</text>
+                        </svg>
 
                     </div>  
 
                     <div class="col-md-11 col-lg-10 col-xl-9 col-xxl-8 mx-auto pt-3 pb-4" id="urb">
                         <!--Muestra la imagen más ancha o la cuadrada según pantalla-->
-                        <object data="img/urb/urb2003.svg" type="image/svg+xml" class="d-md-none bg-black ob urb1960"></object>
                         <object data="img/urb/urb1960.svg" type="image/svg+xml" class="d-md-none bg-black ob urb1960"></object>
                         <object data="img/urb/urb1960.svg" type="image/svg+xml" class="d-none d-md-block bg-black ob urb1960"></object>
                         <!--Se muestra o no por una clase de Bootstrap que responde al ancho de pantalla-->
