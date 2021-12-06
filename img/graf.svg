@@ -3,6 +3,11 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="120 10 630 515.2" style="enable-background:new 0 0 785 515.2;" xml:space="preserve">
 <style type="text/css">
+
+    @font-face{
+    font-family: Roboto;
+    src: url(fonts/Roboto-Thin.ttf);
+    }
 	.st0{display:none;}
 	.st1{stroke:#000000;stroke-miterlimit:10;}
 	.st2{fill:#FFFFFF;}
