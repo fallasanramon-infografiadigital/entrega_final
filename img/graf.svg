@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="120 10 630 515.2" style="enable-background:new 0 0 785 515.2;" xml:space="preserve">
+<svg version="1.1" id="grupo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 785 515.2" style="enable-background:new 0 0 785 515.2;" xml:space="preserve">
 <style type="text/css">
-
-    @font-face{
-    font-family: RobotoThin;
-    src: url(fonts/Roboto-Thin.ttf);
-    }
-
-    @font-face{
-    font-family: RobotoBlack;
-    src: url(fonts/Roboto-Black.ttf);
-    }
 	.st0{display:none;}
 	.st1{stroke:#000000;stroke-miterlimit:10;}
 	.st2{fill:#FFFFFF;}
-	.st3{font-family:RobotoBlack, sans-serif;}
+	.st3{font-family:'Roboto-Bold';}
 	.st4{font-size:20px;}
 	.st5{fill:none;}
 	.st6{display:none;fill:#020202;}
-	.st7{font-family:RobotoThin, sans-serif;}
+	.st7{font-family:'Roboto-Regular';}
 	.st8{font-size:18px;}
 	.st9{enable-background:new    ;}
 	.st10{fill-rule:evenodd;clip-rule:evenodd;fill:#BF8266;}
@@ -33,13 +23,19 @@
 </style>
 <g id="Layer_2_xA0_Image_00000037654257152618241980000007088080592892120465_" class="st0">
 	
-		<image style="display:inline;overflow:visible;enable-background:new    ;" width="686" height="689" id="Layer_2_xA0_Image" xlink:href="C95ECCB89C4FCEBE.png"  transform="matrix(0.719 0 0 0.719 185.4883 43.2016)">
+		<image style="display:inline;overflow:visible;enable-background:new    ;" width="686" height="689" id="Layer_2_xA0_Image" xlink:href="A743016A7C9BE854.png"  transform="matrix(0.719 0 0 0.719 185.4883 43.2016)">
 	</image>
 </g>
 <g id="Layer_23">
 	<rect x="0" y="0.8" class="st1" width="795.3" height="648"/>
 	<text transform="matrix(1 0 0 1 212.4037 61.9556)" class="st2 st3 st4">Promedio de la intensidad sísmica según</text>
 	<text transform="matrix(1 0 0 1 271.5837 81.4156)" class="st2 st3 st4"> su profundidad hipocentral</text>
+</g>
+<g id="Layer_22" class="st0">
+</g>
+<g id="Layer_21">
+</g>
+<g id="Layer_20">
 </g>
 <g id="Layer_19">
 	<g>
@@ -99,15 +95,33 @@
 		</g>
 	</g>
 </g>
+<g id="Ellipse_4_copy_6_xA0_Image_00000011028918268878166780000013172478045162872474_">
+</g>
+<g id="Ellipse_4_copy_7_xA0_Image_00000129892321562809934080000014054808096647095697_">
+</g>
+<g id="Ellipse_4_copy_8_xA0_Image_00000129925203691650766650000012449986485388531364_">
+</g>
+<g id="Ellipse_4_copy_9_xA0_Image_00000047025122382141912660000011642620608459391375_">
+</g>
+<g id="Ellipse_4_copy_10_xA0_Image_00000169538023399545671090000013047512150549658541_">
+</g>
+<g id="Ellipse_4_copy_5_xA0_Image_00000015342577442626128710000008684685952929770423_">
+</g>
 <g id="Layer_16">
 	<path class="st2" d="M588.6,369.1V140.8l0,0v-1.9H208.8v0.3h-0.8v229.9v2v0.8h381.3v-2.8L588.6,369.1L588.6,369.1z M211.2,140.8
 		h374.4v228.3H211.2V140.8z"/>
+</g>
+<g id="Layer_17">
+</g>
+<g id="Layer_18">
+</g>
+<g id="Ellipse_4_copy_11_xA0_Image_00000116230221159450323800000018182707795237535157_">
 </g>
 <g id="Distancia_hipocentral__x28_KM_x29_">
 	<text transform="matrix(1 0 0 1 295.2986 430.5998)" class="st2 st7 st8">Intensidad macrosísmica</text>
 </g>
 <g id="Hipocentro_San_Ramón__x28_5KM_x29_">
-	<text transform="matrix(1 0 0 1 597.3512 151.6475)" class="st9"><tspan x="0" y="0" class="st11 st3 st12">Posible intensidad</tspan><tspan x="0" y="18.5" class="st11 st3 st12">de San Ramón </tspan><tspan x="0" y="37" class="st11 st3 st12">(5 km de profundidad)</tspan></text>
+	<text transform="matrix(1 0 0 1 597.3512 151.6475)" class="st9"><tspan x="0" y="0" class="st11 st7 st12">Posible intensidad</tspan><tspan x="0" y="18.5" class="st11 st7 st12">de San Ramón </tspan><tspan x="0" y="37" class="st11 st7 st12">(5 km de profundidad)</tspan></text>
 </g>
 <g id="_x39__xA0_Image_00000057123193409576788950000003016012307312303531_">
 	<text transform="matrix(1 0 0 1 188.1158 147.4414)" class="st2 st7 st13">0</text>
@@ -122,6 +136,8 @@
 	<text transform="matrix(1 0 0 1 472.8147 398.4337)" class="st2 st7 st13">7</text>
 	<text transform="matrix(1 0 0 1 525.7437 398.0389)" class="st2 st7 st13">8</text>
 	<text transform="matrix(1 0 0 1 580.2716 398.4341)" class="st2 st7 st13">9</text>
+</g>
+<g id="_x35_00_xA0_Image_00000113319005910975891230000000968387876036255673_">
 </g>
 <g id="Ellipse_4_copy_00000017482599905094187250000017256526317136413595_">
 	<g>
@@ -148,6 +164,6 @@
 <line class="st15" x1="559" y1="141.9" x2="533.9" y2="167.1"/>
 <line class="st15" x1="546.5" y1="141.9" x2="533.4" y2="155"/>
 <g id="Distancia_hipocentral__x28_KM_x29__00000080191966105855116500000002242137506805947011_">
-	<text transform="matrix(1 0 0 1 271.9974 452.7963)" class="st9"><tspan x="0" y="0" class="st2 st7 st16">(Escala de evaluación sísmica a base de los</tspan><tspan x="0" y="15.6" class="st2 st7 st16"> efectos y daños producidos por un sismo)</tspan></text>
+	<text transform="matrix(1 0 0 1 274.9974 452.7963)" class="st9"><tspan x="0" y="0" class="st2 st7 st16">(Escala de evaluación sísmica a base de los</tspan><tspan x="0" y="15.6" class="st2 st7 st16"> efectos y daños producidos por un sismo)</tspan></text>
 </g>
 </svg>
