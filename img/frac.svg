@@ -3,10 +3,14 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1546.19 1080" style="enable-background:new 0 0 1546.19 1080;" xml:space="preserve">
 <style type="text/css">
+    @font-face{
+    font-family: Roboto;
+    src: url(fonts/Roboto-Thin.ttf);
+    }
 	.st0{opacity:0.97;}
 	.st1{fill:none;stroke:#C83A02;stroke-width:4.5322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5899;}
 	.st2{fill:#C83A02;}
-	.st3{font-family:'RobotoSlab-Regular';}
+	.st3{font-family:Roboto, sans-serif;}
 	.st4{font-size:31px;}
 	.st5{fill:#FFFFFF;}
 	.st6{font-size:21px;}
