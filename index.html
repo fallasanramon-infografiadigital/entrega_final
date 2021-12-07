@@ -99,6 +99,17 @@
                 font-family: roboto, sans-serif;
             }
 
+            .select-items {
+                position: absolute;
+                background-color: DodgerBlue;
+                top: 100%;
+                left: 0;
+                right: 0;
+                z-index: 99;
+            }
+
+
+
         </style>
         <title>Falla de San Ramón</title>
     </head>
@@ -403,59 +414,73 @@
             </div>
         </aside>
 
-        <footer class="bg-dark">
-            <div class="container">
-                <div class="row py-5">
-                    <div class="col-sm-12 pb-3">
-                        <h4 class="text-white text-center mb-2 w-75 mx-auto">Más sobre vulnerabilidades y desastres socionaturales en Chile</h4>
+ <!--COPIANDO DESDE ACÁ-->
+ <footer class="bg-dark bg-gradient">
+    <div class="container">
+        <div class="row py-5">
+            <div class="col-lg-12">
+                <h4 class="text-white text-center w-75 mx-auto mb-5">Más sobre vulnerabilidades y desastres socionaturales en Chile</h4>
+            </div>
+            <!--DESDE AQUÍ LA TORMENTA IGNEA-->
+            <div class="col-lg-4 mb-4">
+                <div class="row g-0 bg-black text-white align-items-center shadow">
+                    <div class="col-4">
+                        <img loading="lazy" src="img/grupo-incendio.jpg" class="w-100" />
                     </div>
-                    <div class="col-sm-4">
-                        <div class="card border-0 rounded-0 shadow-sm">
-                            <img src="img/grupo-incendio.jpg" class="card-img-top rounded-0" />
-                            <div class="card-body">
-                                <p class="card-text small text-black-50">
-                                    <a href="https://infodigitalgrupo.github.io/29-Noviembre/" class="link-dark fw-bold">La tormenta de fuego</a> es el nombre dado al incendio que afectó parte importante de la zona central de Chile el
-                                    verano de 2017, consumiendo lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <div class="card border-0 rounded-0 shadow-sm">
-                            <img src="img/grupo-rinihuazo.jpg" class="card-img-top rounded-0" />
-                            <div class="card-body">
-                                <p class="card-text text-black-50 small">
-                                    <a href="https://infografia-digital.github.io/info-digital-15/" class="link-dark fw-bold">El Riñihuazo</a> es el nombre dado al aumento de volumen en el lago Riñihue tras el terremoto de Valdivia de 1960,
-                                    producto de tres deslizamientos de tierra que bloquearon su desagüe natural.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <div class="card border-0 rounded-0 shadow-sm">
-                            <img src="img/grupo-volcan.jpg" class="card-img-top rounded-0" />
-                            <div class="card-body">
-                                <p class="card-text small text-black-50">
-                                    <a href="https://volcan-chaiten.github.io/29-Noviembre/" class="link-dark fw-bold">El volcán Chaitén</a> entró en erupción el 2008, de manera violenta e inesperada, causando la destrucción total de la
-                                    ciudad del mismo nombre, donde tuvieron que ser evacuadas 8000 personas.
-                                </p>
-                            </div>
-                        </div>
+                    <div class="col-8">
+                        <p class="px-3 small m-0 py-0">
+                            <a href="https://infodigitalgrupo.github.io/infografia-final/" class="link-light fw-bold" target="_blank">Tormenta Ignea</a><br/>
+                            <small>2017</small>
+                        </p>
                     </div>
                 </div>
             </div>
-            <div class="container-fluid bg-black small text-white-50">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
-                            <p class="pt-3 text-center d-flex justify-content-between align-items-center">
-                                <span>INFOGRAFÍA DIGITAL</span> <a href="https://diseno.uc.cl/" target="_blank" class="link-light">DISEÑO UC</a> <span>DICIEMBRE 2021</span>
-                            </p>
-                        </div>
+            <!--HASTA AQUÍ LA TORMENTA IGNEA-->
+ 
+            <!--DESDE AQUÍ EL CHAITÉN-->
+            <div class="col-lg-4 mb-4">
+                <div class="row g-0 bg-black text-white align-items-center shadow">
+                    <div class="col-4">
+                        <img loading="lazy" src="img/grupo-volcan.jpg" class="w-100" />
+                    </div>
+                    <div class="col-8">
+                        <p class="px-3 small m-0 py-0">
+                            <a href="https://volcan-chaiten.github.io/Infrografia-Final/" class="link-light fw-bold" target="_blank">Chaitén, erupción inesperada</a><br/>
+                            <small>2008</small>
+                        </p>
                     </div>
                 </div>
             </div>
-        </footer>
+            <!--HASTA AQUÍ EL CHAITÉN-->
+            <!--DESDE AQUÍ EL RIÑIHUAZO-->
+            <div class="col-lg-4 mb-4">
+                <div class="row g-0 bg-black text-white align-items-center shadow">
+                    <div class="col-4">
+                        <img loading="lazy" src="img/grupo-rinihuazo.jpg" class="w-100" />
+                    </div>
+                    <div class="col-8">
+                        <p class="px-3 small m-0 py-0">
+                            <a href="https://infografia-digital.github.io/rinihuazo-final/" class="link-light fw-bold" target="_blank">El Riñihuazo</a><br/>
+                            <small>1960</small>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!--HASTA AQUÍ EL RIÑIHUAZO-->
+        </div>
+    </div>
+    <div class="container-fluid bg-black small text-white-50">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
+                    <p class="pt-3 text-center d-flex justify-content-between align-items-center">
+                        <span>INFOGRAFÍA DIGITAL</span> <a href="https://diseno.uc.cl/" target="_blank" class="link-light">DISEÑO UC</a> <span>DICIEMBRE 2021</span>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 
