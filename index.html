@@ -323,12 +323,27 @@
                     </div>
                 </div>
             </section>
+            
         </main>
-
+        
         <aside class="bg-dark text-white-75 opacity-75">
+
+
+        <div class="container-fluid w-100 g-0">
+            <div class="row g-0">
+                <div class="col">
+                    <!--Muestra la imagen más ancha o la cuadrada según pantalla-->
+                    <img src="img/foto_rojaa.png" class="d-md-none bg-light" style="position:absolute; z-index: 1;"/>
+                    <img src="img/foto_rojaa.png" class="d-none d-md-block bg-light w-100" style="position:absolute; z-index: 1;"/>
+                    <!--Se muestra o no por una clase de Bootstrap que responde al ancho de pantalla-->
+                </div>
+            </div>
+        </div>
             <div class="container">
+                
                 <div class="row py-5">
-                    <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto small">
+                    <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto small" style="z-index: 2;">
+                        
                         <p class="text-center">
                           <strong> Fuentes </strong> <br />
                                         <a style="color: white;" href="http://revistas.ubiobio.cl/index.php/RU/article/view/4529" target=“_blank”>
@@ -415,7 +430,7 @@
         </aside>
 
  <!--COPIANDO DESDE ACÁ-->
- <footer class="bg-dark bg-gradient">
+ <footer  style="position:relative;z-index: 2; background-color: rgba(0, 0, 0, 0.6)">
     <div class="container">
         <div class="row py-5">
             <div class="col-lg-12">
