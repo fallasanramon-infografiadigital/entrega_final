@@ -83,29 +83,38 @@
                 font-family: 'Roboto', sans-serif;                
             }
             .txtsvg{
-                font-size: calc(0.8rem);
+                font-size: calc(1rem);
                 color: #eee;  
                 font-family: 'Roboto', sans-serif;        
             }
 
 
             #basic-addon1 {
-                font-family: roboto, sans-serif;
-
+                font-family: condensed, sans-serif;
+                background-color: #eee;
+                border-radius: 0%;
+                color: #c83a02;
+                border-color: brown;
+                border-width: 0px;
+                font-size: 1.2em;
             }
 
             #selector{
                 cursor: pointer;
                 font-family: roboto, sans-serif;
+                background-color: #eee;
+                border-radius: 0%;
+                border-width: 0px;
+                color: BLACK;
+                border-color: brown;
+               
             }
 
-            select option {
-                position: absolute;
-                background-color: DodgerBlue;
-                top: 100%;
-                left: 0;
-                right: 0;
-                z-index: 99;
+            #selector:hover{
+
+                background-color: rgb(216, 216, 216);
+
+
             }
 
 
@@ -240,9 +249,10 @@
                         </p>
                     </div>
 
+
                     <div class="col-sm-11 col-md-10 col-lg-0 col-xl-8 col-xxl-7 mx-auto text-center">
                         <div class="input-group my-3 mx-auto w-50">
-                            <span class="input-group-text" id="basic-addon1">Año</span>
+                            <span class="input-group-text" id="basic-addon1">AÑO</span>
                             <select class="form-select" id="selector">
                                 <option value="1960" select>1960</option>
                                 <option value="1985">1985</option>
@@ -252,7 +262,12 @@
                             </select>
                         </div>
                     </div>
-
+                    <svg height="70" width="100%">
+                        <circle cx="20%" cy="30" r="10" stroke="#bf8266" stroke-width="2" fill="black" />
+                        <text class="txtsvg" x = "23%" y = "35" fill="#eee">Límite de urbanización</text>
+                        <circle cx="55%" cy="30" r="10" stroke="#bf8266" stroke-width="2" fill="#bf8266" style="opacity:0.69"/>
+                        <text class="txtsvg" x = "58%" y = "35" fill="#eee">Área urbanizada</text>
+                    </svg>
                     <div class="col-md-11 col-lg-10 col-xl-9 col-xxl-8 mx-auto pt-3 pb-4 text-center" id="urbe" style="min-height: 400px;"></div>
                     <script>
                         const urbe = document.getElementById("urbe");
@@ -343,6 +358,13 @@
                 
                 <div class="row py-5">
                     <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto small" style="z-index: 2;">
+                        <p class="text-center">
+                            <strong>
+                                Equipo de trabajo
+                            </strong></br>
+                            Magdalena Achondo,   Natalia Correal,   Helena Martínez,   Teresa Muñoz
+
+                        </p>
                         
                         <p class="text-center">
                           <strong> Fuentes </strong> <br />
