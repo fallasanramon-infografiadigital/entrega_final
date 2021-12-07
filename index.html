@@ -9,6 +9,11 @@
             main{
                 background-color: black
             }
+            @font-face{
+                font-family: condensed;
+                src: url(fonts/condensed.woff2);
+            }
+
             @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&family=Roboto:wght@300;400;500&display=swap');
 
             :root {
@@ -27,7 +32,7 @@
             h4,
             h5,
             h6 {
-                font-family: 'Roboto Condensed', sans-serif;
+                font-family: condensed, sans-serif;
                 font-weight: 700;
             }
 
@@ -49,12 +54,13 @@
             }
 
             header {
-                background: linear-gradient(var(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)));
+                height: 50vh;
+                background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
                 color: white;
             }
-
             @media (max-width: 575.98px) {
                 header {
+                    height: 50vh;
                     background: linear-gradient(var(--bs-body-bg), rgba(0, 0, 0, 0));
                     color: white;
                 }
@@ -88,7 +94,7 @@
         <title>Falla de San Ramón</title>
     </head>
 
-    <body>
+    <body class="bg-black">
         <header>
             <div class="container-fluid g-0" id="titular">
                 <div class="row g-0">
