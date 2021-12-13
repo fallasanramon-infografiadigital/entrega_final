@@ -8,7 +8,7 @@
 	.st2{fill:none;}
 	.st3{fill:#FFFFFF;}
 	.st4{display:none;fill:#020202;}
-	.st5{font-family:'Roboto-Regular';}
+	.st5{font-family:'Roboto-Regular', sans-serif;}
 	.st6{font-size:18px;}
 	.st7{fill:#EC775F;}
 	.st8{font-size:15.4356px;}
