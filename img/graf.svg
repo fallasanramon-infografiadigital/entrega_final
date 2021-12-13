@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 819.2 483.1" style="enable-background:new 0 0 819.2 483.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;}
+	.st3{font-family:'Roboto-Bold';}
+	.st4{font-size:20px;}
+	.st5{fill:none;}
+	.st6{display:none;fill:#020202;}
+	.st7{font-family:'Roboto-Regular';}
+	.st8{font-size:18px;}
+	.st9{fill:#EC775F;}
+	.st10{font-size:15.4356px;}
+	.st11{enable-background:new    ;}
+	.st12{fill:#C83A02;}
+	.st13{font-size:19.2946px;}
+	.st14{font-size:13px;}
+	.st15{fill-rule:evenodd;clip-rule:evenodd;fill:#BF8266;}
+	.st16{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
+	.st17{fill:none;stroke:#EC775F;stroke-miterlimit:10;}
+</style>
+<g id="grupo">
+	<g id="Layer_2_xA0_Image_00000037654257152618241980000007088080592892120465_" class="st0">
+		
+			<image style="display:inline;overflow:visible;enable-background:new    ;" width="686" height="689" id="Layer_2_xA0_Image" xlink:href="A743016A7C9BE854.png"  transform="matrix(0.719 0 0 0.719 185.4883 36.8127)">
+		</image>
+	</g>
+	<g id="Layer_23">
+		<polygon class="st1" points="0,-5.6 860.1,-5.6 854.9,642.4 0,642.4 		"/>
+		<text transform="matrix(1 0 0 1 209.4037 55.5667)" class="st2 st3 st4">Promedio de la intensidad sísmica según</text>
+		<text transform="matrix(1 0 0 1 268.5837 75.0266)" class="st2 st3 st4"> su profundidad hipocentral</text>
+	</g>
+	<g id="Layer_19">
+		<g>
+			<line class="st5" x1="147.2" y1="210.5" x2="523.6" y2="212.5"/>
+			<line class="st5" x1="148" y1="286.7" x2="524.3" y2="288.7"/>
+			
+				<rect x="336.8" y="176" transform="matrix(5.211857e-03 -1 1 5.211857e-03 -28.3653 699.8383)" class="st2" width="1.5" height="376.4"/>
+			<polygon class="st2" points="417.9,364.9 419.1,133.7 420.6,134.7 419.4,365 			"/>
+			<polygon class="st2" points="258.5,135 257.3,364.1 255.8,365.3 257,135 			"/>
+			<polygon class="st2" points="204.2,134.8 203,364.1 201.4,364.1 202.6,135.3 			"/>
+			<polygon class="st2" points="633.6,288 635.6,289.5 149.8,287.5 148.8,285.9 			"/>
+			<polygon class="st2" points="410,212.3 529.3,213.2 149,211.3 149,209.7 			"/>
+		</g>
+		<polyline class="st6" points="149,148.7 143.2,134.4 149,148.7 149,148.7 149,148.7 149,148.7 149,148.7 422.6,150.1 422.7,134.4 
+			143.2,134.4 		"/>
+		<polygon class="st6" points="147.4,159.8 422.5,161.3 422.7,126 143.3,124.5 		"/>
+	</g>
+	<g id="Intensidad_macrosísmica">
+		<text transform="matrix(0 -1 1 0 73.6063 385.1032)" class="st2 st7 st8">Profundidad del hipocentro (km)</text>
+	</g>
+	<g id="Distancia_hipocentral__x28_KM_x29_">
+		<text transform="matrix(1 0 0 1 292.3447 426.3907)" class="st2 st7 st8">Intensidad macrosísmica</text>
+	</g>
+	<g id="Hipocentro_San_Ramón__x28_5KM_x29_">
+		<text transform="matrix(1 0 0 1 646.309 152.2592)" class="st9 st7 st10">Posible intensidad</text>
+		<text transform="matrix(1 0 0 1 646.309 170.7592)" class="st11"><tspan x="0" y="0" class="st9 st7 st10">de San Ramón</tspan><tspan x="99.3" y="0" class="st12 st7 st10"> </tspan></text>
+		<text transform="matrix(1 0 0 1 646.309 189.2592)" class="st9 st7 st10">(5 km de profundidad)</text>
+	</g>
+	<g id="_x39__xA0_Image_00000057123193409576788950000003016012307312303531_">
+		<text transform="matrix(1 0 0 1 113.2844 142.0617)" class="st2 st7 st13">0</text>
+		<text transform="matrix(1 0 0 1 101.0527 216.2119)" class="st2 st7 st13">100</text>
+		<text transform="matrix(1 0 0 1 102.654 290.6617)" class="st2 st7 st13">200</text>
+		<text transform="matrix(1 0 0 1 103.53 366.8285)" class="st2 st7 st13">300</text>
+		<text transform="matrix(1 0 0 1 249.5921 391.8479)" class="st2 st7 st13">2</text>
+		<text transform="matrix(1 0 0 1 304.984 391.848)" class="st2 st7 st13">3</text>
+		<text transform="matrix(1 0 0 1 358.2 391.8475)" class="st2 st7 st13">4</text>
+		<text transform="matrix(1 0 0 1 412.1992 392.0455)" class="st2 st7 st13">5</text>
+		<text transform="matrix(1 0 0 1 468.1253 391.8477)" class="st2 st7 st13">6</text>
+		<text transform="matrix(1 0 0 1 522.251 392.2425)" class="st2 st7 st13">7</text>
+		<text transform="matrix(1 0 0 1 575.1799 391.8477)" class="st2 st7 st13">8</text>
+		<text transform="matrix(1 0 0 1 629.7078 392.2429)" class="st2 st7 st13">9</text>
+	</g>
+	<g id="Distancia_hipocentral__x28_KM_x29__00000080191966105855116500000002242137506805947011_">
+		<text transform="matrix(1 0 0 1 144.3608 447.3432)" class="st2 st7 st14">(Escala de evaluación sísmica a base de los efectos y daños producidos por un sismo)</text>
+	</g>
+	<g id="Layer_19_00000038396602104950186800000010674703986177119157_">
+		<g>
+			<line class="st5" x1="255.3" y1="211.4" x2="631.7" y2="213.4"/>
+			<line class="st5" x1="256.1" y1="287.6" x2="632.4" y2="289.6"/>
+			
+				<rect x="444.9" y="176.9" transform="matrix(5.211857e-03 -1 1 5.211857e-03 78.2445 808.8481)" class="st2" width="1.5" height="376.4"/>
+			
+				<rect x="465" y="248.7" transform="matrix(5.212038e-03 -1 1 5.212038e-03 327.6788 828.3425)" class="st2" width="230.3" height="1.5"/>
+			
+				<rect x="412.2" y="248.7" transform="matrix(5.212038e-03 -1 1 5.212038e-03 275.103 775.492)" class="st2" width="230.3" height="1.5"/>
+			<polygon class="st2" points="471.1,365.6 472.3,133.7 473.8,133.7 472.6,365.6 			"/>
+			<polygon class="st2" points="366.6,134.8 365.4,365 363.9,366.2 365.1,134.8 			"/>
+			<polygon class="st2" points="312.3,133.7 310.9,364.8 309.4,364.8 310.7,134.2 			"/>
+			<polygon class="st2" points="634.9,212.4 635.6,214.1 256.3,212.2 256.3,210.6 			"/>
+		</g>
+		<polyline class="st6" points="257.1,149.6 251.3,135.3 257.1,149.6 257.1,149.6 257.1,149.6 257.1,149.6 257.1,149.6 530.7,151 
+			530.8,135.3 251.3,135.3 		"/>
+		<polygon class="st6" points="255.5,160.7 530.6,162.2 530.8,126.9 251.4,125.4 		"/>
+	</g>
+	<g id="Ellipse_4_copy_00000017482599905094187250000017256526317136413595_">
+		<g>
+			<path class="st15" d="M434,285.7c0-7.1-5.5-12.8-12.3-12.8s-12.4,5.7-12.5,12.7c0,7.1,5.5,12.8,12.3,12.8S434,292.8,434,285.7z"
+				/>
+		</g>
+	</g>
+	<g id="Ellipse_4_copy_00000139994531642089260870000015325412503247188362_">
+		<g>
+			<path class="st15" d="M561.9,189.8c0-7.1-5.5-12.8-12.3-12.8s-12.4,5.7-12.5,12.7c0,7.1,5.5,12.8,12.3,12.8
+				C556.3,202.5,561.9,196.8,561.9,189.8z"/>
+		</g>
+	</g>
+	<g id="Ellipse_4_copy_00000109723412170874510920000002082392608864829327_">
+		<g>
+			<path class="st15" d="M591.5,173.7c0-7.1-5.5-12.8-12.3-12.8s-12.4,5.7-12.5,12.7s5.5,12.8,12.3,12.8
+				C585.9,186.5,591.5,180.8,591.5,173.7z"/>
+		</g>
+	</g>
+	<g id="Ellipse_4_copy_00000063621551632687848970000007370558732931525274_" class="st11">
+		<g id="Ellipse_4_copy_00000000204826328553431890000017995142725332356262_">
+			<g>
+				<path class="st15" d="M478.5,240.9c0-7.1-5.5-12.8-12.3-12.8s-12.4,5.7-12.5,12.7c0,7.1,5.5,12.8,12.3,12.8
+					S478.4,248,478.5,240.9z"/>
+			</g>
+		</g>
+		<g id="Ellipse_4_copy_00000112597452017549015360000004812133592395440319_">
+			<g>
+				<path class="st15" d="M451.4,258c0-7.1-5.5-12.8-12.3-12.8c-6.9,0-12.4,5.7-12.5,12.7s5.5,12.8,12.3,12.8S451.4,265.1,451.4,258
+					z"/>
+			</g>
+		</g>
+		<g id="Ellipse_4_copy_00000018955619829962719600000005333004631398420615_">
+			<g>
+				<path class="st15" d="M508.9,241c0-7.1-5.5-12.8-12.3-12.8c-6.9,0-12.4,5.7-12.5,12.7c0,7.1,5.5,12.8,12.3,12.8
+					C503.3,253.8,508.9,248.1,508.9,241z"/>
+			</g>
+		</g>
+		<g id="Ellipse_4_copy_00000161618634673708738230000009235615977739114630_">
+			<g>
+				<path class="st15" d="M538.1,196.5c0-7.1-5.5-12.8-12.3-12.8s-12.4,5.7-12.5,12.7c0,7.1,5.5,12.8,12.3,12.8
+					S538.1,203.6,538.1,196.5z"/>
+			</g>
+		</g>
+		<g id="Ellipse_4_copy_00000038410221028271347100000010417946382977712272_">
+			<g>
+				<path class="st15" d="M370.2,322.1c0-7.1-5.5-12.8-12.3-12.8s-12.4,5.7-12.5,12.7c0,7.1,5.5,12.8,12.3,12.8
+					S370.1,329.1,370.2,322.1z"/>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 196.0251 392.2426)" class="st2 st7 st13">1</text>
+	<text transform="matrix(1 0 0 1 141.0481 392.2428)" class="st2 st7 st13">0</text>
+	<rect x="149.8" y="133.7" class="st16" width="485.1" height="231.6"/>
+	<polygon class="st17" points="633.6,169.8 622.1,169.8 582.5,169.8 582.5,135.5 633.6,135.5 633.6,158 	"/>
+	<line class="st17" x1="633.6" y1="158" x2="621.9" y2="169.7"/>
+	<line class="st17" x1="633.6" y1="146.8" x2="610.2" y2="170.2"/>
+	<line class="st17" x1="633.6" y1="135.5" x2="599.5" y2="169.7"/>
+	<line class="st17" x1="621.1" y1="135.5" x2="586.9" y2="169.7"/>
+	<line class="st17" x1="608" y1="135.5" x2="582.9" y2="160.7"/>
+	<line class="st17" x1="595.5" y1="135.5" x2="582.4" y2="148.6"/>
+</g>
+<g id="Layer_2">
+</g>
+</svg>
