@@ -13,7 +13,7 @@
 	.st7{fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:10;}
 	.st8{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
 	.st9{fill:#FCFCFC;}
-	.st10{font-family:'Roboto-Regular';}
+	.st10{font-family:'Roboto-Regular', sans-serif;}
 	.st11{font-size:8.9357px;}
 	.st12{fill:#FFFFFF;}
 </style>
@@ -148,7 +148,7 @@
 		</g>
 	</g>
 </g>
-<image style="overflow:visible;enable-background:new    ;" width="2017" height="3239" xlink:href="9A7369D60B5068AC.jpg"  transform="matrix(1.949043e-02 0 0 1.949043e-02 31.7684 640.8043)">
+<image style="overflow:visible;enable-background:new    ;" width="2017" height="3239" xlink:href="9A7369D60B5068B3.png"  transform="matrix(1.949043e-02 0 0 1.949043e-02 31.7684 640.8043)">
 </image>
 <rect x="55.7" y="643.4" class="st8" width="25.3" height="53.8"/>
 <rect x="165.2" y="665.8" class="st2" width="107.9" height="8.1"/>

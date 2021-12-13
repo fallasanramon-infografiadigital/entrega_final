@@ -7,7 +7,7 @@
 	.st1{opacity:0.9882;}
 	.st2{fill:none;}
 	.st3{fill:#FCFCFC;}
-	.st4{font-family:'Roboto-Regular';}
+	.st4{font-family:'Roboto-Regular', sans-serif;}
 	.st5{font-size:6px;}
 	.st6{enable-background:new    ;}
 	.st7{opacity:0.35;}
